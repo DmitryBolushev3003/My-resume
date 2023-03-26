@@ -1,6 +1,6 @@
 # Всем привет, меня зовут Дмитрий, мне 27 лет и я будущий QA-инженер.
 
-![Мое фото](C:\Users\Srg\Desktop](https://github.com/DmitryBolushev3003/My-resume/blob/765764bf8f35e09051cd623ec8d3ceb196f4e083/photo_2023-03-26_14-30-44.jpg)
+![Мое фото](https://github.com/DmitryBolushev3003/My-resume/blob/765764bf8f35e09051cd623ec8d3ceb196f4e083/photo_2023-03-26_14-30-44.jpg)
 
 ## Закончил курс по ручному тестированию
 
